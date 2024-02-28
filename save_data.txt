@@ -1,0 +1,2 @@
+last_scp 5776
+min_upvotes 150
